@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'trackvia'
-  s.version     = '0.0.1'
+  s.version     = '0.0.2'
   s.date        = '2015-12-29'
   s.summary     = "Trackvia API Library (2013 API)"
   s.description = "A simple interface for the old (2013) Trackvia API"
@@ -8,6 +8,6 @@ Gem::Specification.new do |s|
   s.email       = 'andcott@gmail.com'
   s.files       = ["lib/trackvia.rb"]
   s.homepage    =
-    'http://rubygems.org/gems/trackvia'
+  'https://github.com/andrewcottage/trackvia'
   s.license       = 'MIT'
 end
