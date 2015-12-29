@@ -1,3 +1,6 @@
+require 'json'
+require 'curb'
+
 class Trackvia
   def initialize(account_id, api_key, table_id)
     @account_id = account_id
