@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/trackvia.svg)](https://badge.fury.io/rb/trackvia)
+
 # trackvia
 Trackvia API Interface
 This only works with the old 2013 api
