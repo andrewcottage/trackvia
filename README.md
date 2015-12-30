@@ -4,6 +4,16 @@
 Trackvia API Interface
 This only works with the old 2013 api
 
+Installation
+
+```ruby
+gem install trackvia
+```
+or add to gemfile
+```ruby
+gem 'trackvia'
+```
+
 Examples
 
 
