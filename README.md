@@ -1,6 +1,6 @@
 [![Gem Version](https://badge.fury.io/rb/trackvia.svg)](https://badge.fury.io/rb/trackvia)
 ![](http://ruby-gem-downloads-badge.herokuapp.com/trackvia)
-# trackvia
+# Trackvia
 Trackvia API Interface
 This only works with the old 2013 api
 
