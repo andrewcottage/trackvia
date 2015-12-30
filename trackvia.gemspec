@@ -10,4 +10,7 @@ Gem::Specification.new do |s|
   s.homepage    =
   'https://github.com/andrewcottage/trackvia'
   s.license       = 'MIT'
+
+  s.add_development_dependency "json"
+  s.add_development_dependency "curb"
 end
